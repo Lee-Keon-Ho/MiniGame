@@ -3,4 +3,4 @@
   - struct.cpp // 구조체 사용
   - main.cpp // 최종 메인
   - Console.h // 선언부
-  - Console.cpp // 
+  - Console.cpp // 구현부
